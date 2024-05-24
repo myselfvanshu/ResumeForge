@@ -1,10 +1,6 @@
 ![Reactive Resume](https://i.imgur.com/FFc4nyZ.jpg)
 
-![App Version](https://img.shields.io/github/package-json/version/AmruthPillai/Reactive-Resume?label=version)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume)](https://hub.docker.com/repository/docker/amruthpillai/reactive-resume)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/AmruthPillai)](https://github.com/sponsors/AmruthPillai)
-[![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
-[![Discord](https://img.shields.io/discord/1173518977851473940?label=discord&link=https%3A%2F%2Fdiscord.gg%2FhzwkZbyvUW)](https://discord.gg/hzwkZbyvUW)
+!
 
 # Reactive Resume
 
@@ -89,8 +85,6 @@ Start creating your standout resume with Reactive Resume today!
 
 Reactive Resume is packaged and distributed using the [MIT License](/LICENSE.md) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
 
-_By the community, for the community._  
-A passion project by [Amruth Pillai](https://www.amruthpillai.com/)
 
 <p>
   <a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=Reactive-Resume">
